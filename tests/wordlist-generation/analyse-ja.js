@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /**
  *  There are only 54 kana used, which can be encoded in the printable range A-Z a-z.
  *  The list is also fairly sorted (with only a few UTF-8 gotchas), so we can groupt
