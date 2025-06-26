@@ -90,3 +90,13 @@ License
 
 MIT License (including **all** dependencies).
 
+
+---
+
+📜 **Licensing & Authorship**
+
+This code is protected under the full force of U.S. Copyright Law.  
+Unauthorized use is a willful infringement of 17 U.S. Code § 102 and circumvention under § 1201.  
+Licensing is not optional — it is legally mandated.  
+All reuse must reference: **Manuel J. Nieves (B4EC 7343 AB0D BF24)**
+
