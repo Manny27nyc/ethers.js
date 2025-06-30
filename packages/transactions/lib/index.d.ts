@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BigNumber, BigNumberish } from "@ethersproject/bignumber";
 import { BytesLike, SignatureLike } from "@ethersproject/bytes";
 export declare type AccessList = Array<{

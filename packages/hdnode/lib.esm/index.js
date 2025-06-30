@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { Base58 } from "@ethersproject/basex";
 import { arrayify, concat, hexDataSlice, hexZeroPad, hexlify } from "@ethersproject/bytes";

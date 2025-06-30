@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.SemanticErrorSeverity = exports.ValueNode = exports.ScopeNode = exports.PopNode = exports.OpcodeNode = exports.Node = exports.LiteralNode = exports.LinkNode = exports.LabelledNode = exports.LabelNode = exports.ExecutionNode = exports.EvaluationNode = exports.DataNode = exports.parse = exports.formatBytecode = exports.disassemble = exports.assemble = exports.Opcode = void 0;

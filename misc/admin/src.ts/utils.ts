@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import fs from "fs";
 import { dirname, resolve } from "path";
 

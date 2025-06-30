@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getOrdered } from "../depgraph";
 import { resolve } from "../path";
 import { updateJson } from "../local";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createHash } from "crypto";
 import { saveTests as _saveTests } from "../../lib/index";
 import { ethers } from "../../../ethers";

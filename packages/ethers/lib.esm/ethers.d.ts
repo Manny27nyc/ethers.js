@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BaseContract, Contract, ContractFactory } from "@ethersproject/contracts";
 import { BigNumber, FixedNumber } from "@ethersproject/bignumber";
 import { Signer, VoidSigner } from "@ethersproject/abstract-signer";

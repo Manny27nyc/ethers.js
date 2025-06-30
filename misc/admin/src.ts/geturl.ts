@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import http from "http";
 import https from "https";
 import { parse } from "url"

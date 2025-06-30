@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ExternallyOwnedAccount } from "@ethersproject/abstract-signer";
 import { Bytes, BytesLike } from "@ethersproject/bytes";
 import { Mnemonic } from "@ethersproject/hdnode";

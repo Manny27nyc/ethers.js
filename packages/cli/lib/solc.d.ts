@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ethers } from "ethers";
 export interface ContractCode {
     interface: ethers.utils.Interface;

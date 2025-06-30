@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createHmac, randomBytes } from "crypto";
 import fs from "fs";
 import os from "os";

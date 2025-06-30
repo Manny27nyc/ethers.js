@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BigNumber } from "@ethersproject/bignumber";
 const NegativeOne = ( /*#__PURE__*/BigNumber.from(-1));
 const Zero = ( /*#__PURE__*/BigNumber.from(0));

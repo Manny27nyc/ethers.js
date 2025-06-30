@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 import { encode as base64Encode } from "@ethersproject/base64";

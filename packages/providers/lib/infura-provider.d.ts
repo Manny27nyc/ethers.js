@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Network, Networkish } from "@ethersproject/networks";
 import { ConnectionInfo } from "@ethersproject/web";
 import { WebSocketProvider } from "./websocket-provider";

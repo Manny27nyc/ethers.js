@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { Provider } from "@ethersproject/abstract-provider";
 import { getNetwork } from "@ethersproject/networks";

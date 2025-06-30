@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { ConstructorFragment, ErrorFragment, EventFragment, FormatTypes, Fragment, FunctionFragment, ParamType } from "./fragments";
 import { AbiCoder, defaultAbiCoder } from "./abi-coder";

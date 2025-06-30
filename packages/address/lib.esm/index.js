@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { arrayify, concat, hexDataLength, hexDataSlice, isHexString, stripZeros } from "@ethersproject/bytes";
 import { BigNumber, _base16To36, _base36To16 } from "@ethersproject/bignumber";

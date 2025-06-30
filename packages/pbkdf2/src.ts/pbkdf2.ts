@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 import { pbkdf2Sync as _pbkdf2 } from "crypto";

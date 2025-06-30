@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TypedDataDomain, TypedDataField } from "@ethersproject/abstract-signer";
 export declare class TypedDataEncoder {
     readonly primaryType: string;

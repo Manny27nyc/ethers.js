@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { BigNumber } from "@ethersproject/bignumber";
 import { arrayify, concat, hexlify, zeroPad } from "@ethersproject/bytes";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Logger } from "@ethersproject/logger";
 export declare const logger: Logger;
 export declare abstract class Wordlist {

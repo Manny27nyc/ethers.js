@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module "aes-js" {
     export class Counter {
         constructor(iv: Uint8Array);

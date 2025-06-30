@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bytes } from "@ethersproject/bytes";
 import { ExternallyOwnedAccount } from "@ethersproject/abstract-signer";
 import { decrypt as decryptCrowdsale } from "./crowdsale";

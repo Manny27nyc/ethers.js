@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /// <reference types="node" />
 import AWS from 'aws-sdk';
 declare type PutInfo = {

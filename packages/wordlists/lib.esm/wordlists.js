@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { langCz as cz } from "./lang-cz";
 import { langEn as en } from "./lang-en";
 import { langEs as es } from "./lang-es";

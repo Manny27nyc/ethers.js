@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 import { dirnames } from "./path";
 import { getPackage, Package } from "./local";

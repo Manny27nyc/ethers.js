@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { arrayify, hexlify } from "@ethersproject/bytes";
 import { toUtf8Bytes, UnicodeNormalizationForm } from '@ethersproject/strings';

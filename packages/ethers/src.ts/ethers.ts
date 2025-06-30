@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 import { BaseContract, Contract, ContractFactory } from "@ethersproject/contracts";

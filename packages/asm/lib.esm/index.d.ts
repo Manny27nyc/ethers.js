@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { assemble, DataNode, disassemble, EvaluationNode, ExecutionNode, formatBytecode, LabelNode, LabelledNode, LinkNode, LiteralNode, Node, OpcodeNode, parse, PopNode, ScopeNode, ValueNode } from "./assembler";
 import { Opcode } from "./opcodes";
 import { AssemblerOptions, AssembleVisitFunc, Bytecode, Location, Operation, ParserOptions, SemanticError, SemanticErrorSeverity, VisitFunc } from "./assembler";

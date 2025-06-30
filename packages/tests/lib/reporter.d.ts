@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 interface Runner {
     on(event: string, callback: (...args: Array<any>) => void): Runner;
 }

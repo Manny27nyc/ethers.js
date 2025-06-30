@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export declare const root: string;
 export declare function resolve(...args: Array<string>): string;
 export declare const dirs: Readonly<{

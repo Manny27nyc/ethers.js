@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Provider, TransactionRequest, TransactionResponse } from "@ethersproject/abstract-provider";
 import { Signer, TypedDataDomain, TypedDataField, TypedDataSigner } from "@ethersproject/abstract-signer";
 import { Bytes } from "@ethersproject/bytes";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * See: https://github.com/MaxArt2501/base64-js
  * The MIT License (MIT)

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 import { toUtf8Bytes, toUtf8String } from "@ethersproject/strings";

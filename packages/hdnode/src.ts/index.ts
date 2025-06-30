@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 // See: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki

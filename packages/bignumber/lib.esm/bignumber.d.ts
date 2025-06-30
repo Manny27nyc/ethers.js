@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bytes, Hexable } from "@ethersproject/bytes";
 export declare type BigNumberish = BigNumber | Bytes | bigint | string | number;
 export declare function isBigNumberish(value: any): value is BigNumberish;

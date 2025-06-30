@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Networkish } from "@ethersproject/networks";
 import { JsonRpcProvider } from "./json-rpc-provider";
 export declare class IpcProvider extends JsonRpcProvider {

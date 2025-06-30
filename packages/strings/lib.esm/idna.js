@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { toUtf8CodePoints, _toUtf8String, UnicodeNormalizationForm } from "./utf8";
 function bytes2(data) {

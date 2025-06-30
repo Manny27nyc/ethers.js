@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { EC } from "./elliptic";
 import { arrayify, hexlify, hexZeroPad, splitSignature } from "@ethersproject/bytes";

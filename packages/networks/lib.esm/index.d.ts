@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Network, Networkish } from "./types";
 export { Network, Networkish };
 /**

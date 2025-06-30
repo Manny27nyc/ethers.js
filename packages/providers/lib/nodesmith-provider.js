@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* istanbul ignore file */
 "use strict";
 var __extends = (this && this.__extends) || (function () {

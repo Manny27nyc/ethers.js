@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Coder, Reader, Writer } from "./abstract-coder";
 export declare class TupleCoder extends Coder {
     readonly coders: Array<Coder>;

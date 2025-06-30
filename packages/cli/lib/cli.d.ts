@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ethers } from "ethers";
 export declare function dump(header: string, info: any): void;
 declare class WrappedSigner extends ethers.Signer {

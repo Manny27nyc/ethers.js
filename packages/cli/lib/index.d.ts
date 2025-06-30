@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as cli from "./cli";
 import * as prompt from "./prompt";
 import * as solc from "./solc";

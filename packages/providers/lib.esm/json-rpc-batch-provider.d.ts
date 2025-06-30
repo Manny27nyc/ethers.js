@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /// <reference types="node" />
 import { JsonRpcProvider } from "./json-rpc-provider";
 export declare class JsonRpcBatchProvider extends JsonRpcProvider {

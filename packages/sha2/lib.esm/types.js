@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export var SupportedAlgorithm;
 (function (SupportedAlgorithm) {
     SupportedAlgorithm["sha256"] = "sha256";

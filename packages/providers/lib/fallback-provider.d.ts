@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Provider } from "@ethersproject/abstract-provider";
 import { Network } from "@ethersproject/networks";
 import { BaseProvider } from "./base-provider";

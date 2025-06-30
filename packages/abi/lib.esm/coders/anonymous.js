@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { Coder } from "./abstract-coder";
 // Clones the functionality of an existing Coder, but without a localName

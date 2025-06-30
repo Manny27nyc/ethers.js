@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module "browserify-zlib" {
     export interface ZlibOptions {
         flush?: number;

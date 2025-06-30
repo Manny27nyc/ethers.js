@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { run } from "./run";
 
 // Returns the most recent git commit hash for a given filename

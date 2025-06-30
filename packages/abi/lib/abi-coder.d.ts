@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BytesLike } from "@ethersproject/bytes";
 import { Coder, Reader, Result, Writer } from "./coders/abstract-coder";
 import { ParamType } from "./fragments";

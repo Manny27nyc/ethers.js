@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ethers } from "ethers";
 import { Opcode } from "./opcodes";
 export declare type Location = {

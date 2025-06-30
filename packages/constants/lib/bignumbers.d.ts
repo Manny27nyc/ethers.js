@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BigNumber } from "@ethersproject/bignumber";
 declare const NegativeOne: BigNumber;
 declare const Zero: BigNumber;

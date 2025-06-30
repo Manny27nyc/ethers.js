@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 const { major } = require("semver");
 // This should be used like `node npm-skip-node8 || COMMAND`.

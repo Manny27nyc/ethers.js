@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /// <reference types="node" />
 export declare function repeat(char: string, length: number): string;
 export declare function sha256(content: Buffer): string;

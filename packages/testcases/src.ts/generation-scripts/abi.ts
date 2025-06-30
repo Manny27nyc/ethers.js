@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 //let web3 = new Web3(new Web3.providers.HttpProvider('http://127.0.0.1:8549'));

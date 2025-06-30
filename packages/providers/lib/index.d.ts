@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Block, BlockTag, EventType, FeeData, Filter, Log, Listener, Provider, TransactionReceipt, TransactionRequest, TransactionResponse } from "@ethersproject/abstract-provider";
 import { getNetwork } from "@ethersproject/networks";
 import { Network, Networkish } from "@ethersproject/networks";

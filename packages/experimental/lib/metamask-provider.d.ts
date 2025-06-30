@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ethers } from "ethers";
 export declare class MetamaskProvider extends ethers.providers.Web3Provider {
     _pollingAccount: any;

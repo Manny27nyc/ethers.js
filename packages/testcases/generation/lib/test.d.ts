@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /// <reference types="node" />
 import * as TestCase from "../../lib/testcases";
 export { TestCase };

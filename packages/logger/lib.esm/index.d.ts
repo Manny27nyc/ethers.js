@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export declare enum LogLevel {
     DEBUG = "DEBUG",
     INFO = "INFO",

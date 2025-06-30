@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { Coder } from "./abstract-coder";
 export class BooleanCoder extends Coder {

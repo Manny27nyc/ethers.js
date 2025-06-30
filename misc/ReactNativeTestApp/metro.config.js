@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Metro configuration for React Native
  * https://github.com/facebook/react-native

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module "bn.js" {
     export class BN {
         constructor(value: string | number, radix?: number);

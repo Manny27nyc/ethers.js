@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import sha3 from "js-sha3";
 import { arrayify } from "@ethersproject/bytes";

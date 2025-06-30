@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 //import fs from "fs";
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {

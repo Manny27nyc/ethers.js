@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import hash from "hash.js";
 //const _ripemd160 = _hash.ripemd160;

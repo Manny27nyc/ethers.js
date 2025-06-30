@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Wordlist } from "./wordlist";
 declare class LangIt extends Wordlist {
     constructor();

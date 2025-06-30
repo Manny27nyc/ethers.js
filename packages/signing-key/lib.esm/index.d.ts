@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BytesLike, Signature, SignatureLike } from "@ethersproject/bytes";
 export declare class SigningKey {
     readonly curve: string;

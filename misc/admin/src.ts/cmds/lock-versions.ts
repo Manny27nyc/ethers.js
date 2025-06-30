@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dirnames, resolve } from "../path";
 import { getPackage } from "../local";
 import { loadJson, saveJson } from "../utils";

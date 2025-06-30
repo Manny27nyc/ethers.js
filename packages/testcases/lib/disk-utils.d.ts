@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /// <reference types="node" />
 export declare function saveTests(tag: string, data: any): void;
 export declare function loadTests<T = any>(tag: string): T;

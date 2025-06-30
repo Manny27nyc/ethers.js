@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { BigNumber } from "@ethersproject/bignumber";
 import { defineReadOnly } from "@ethersproject/properties";

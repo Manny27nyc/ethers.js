@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { getAddress } from "@ethersproject/address";
 export function isCrowdsaleWallet(json) {

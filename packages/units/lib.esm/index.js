@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { formatFixed, parseFixed } from "@ethersproject/bignumber";
 import { Logger } from "@ethersproject/logger";

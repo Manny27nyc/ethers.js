@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import fs from "fs";
 import { createServer, Server } from "http";
 import { resolve as _resolve } from "path";

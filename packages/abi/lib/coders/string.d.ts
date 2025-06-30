@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Reader, Writer } from "./abstract-coder";
 import { DynamicBytesCoder } from "./bytes";
 export declare class StringCoder extends DynamicBytesCoder {

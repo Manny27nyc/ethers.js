@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dirnames, getPackageJsonPath, resolve } from "./path";
 import { loadJson, saveJson } from "./utils";
 

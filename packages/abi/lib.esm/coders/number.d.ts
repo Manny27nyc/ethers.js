@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BigNumberish } from "@ethersproject/bignumber";
 import { Coder, Reader, Writer } from "./abstract-coder";
 export declare class NumberCoder extends Coder {

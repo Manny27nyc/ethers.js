@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BigNumber, BigNumberish } from "@ethersproject/bignumber";
 export declare function commify(value: string | number): string;
 export declare function formatUnits(value: BigNumberish, unitName?: string | BigNumberish): string;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { id } from "./id";
 import { isValidName, namehash } from "./namehash";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AbiCoder, checkResultErrors, ConstructorFragment, defaultAbiCoder, ErrorFragment, EventFragment, FormatTypes, Fragment, FunctionFragment, Indexed, Interface, LogDescription, ParamType, Result, TransactionDescription } from "@ethersproject/abi";
 import { getAddress, getCreate2Address, getContractAddress, getIcapAddress, isAddress } from "@ethersproject/address";
 import * as base64 from "@ethersproject/base64";

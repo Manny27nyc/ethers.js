@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import "./test-account";
 import "./test-contract";
 import "./test-contract-interface";

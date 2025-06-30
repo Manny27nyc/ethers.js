@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { getAddress, getContractAddress } from "@ethersproject/address";
 import { BigNumber } from "@ethersproject/bignumber";

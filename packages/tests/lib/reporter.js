@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* istanbul ignore file */
 'use strict';
 Object.defineProperty(exports, "__esModule", { value: true });

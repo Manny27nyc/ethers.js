@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Bytes, BytesLike } from "@ethersproject/bytes";
 export declare function looseArrayify(hexString: string): Uint8Array;
 export declare function zpad(value: String | number, length: number): String;

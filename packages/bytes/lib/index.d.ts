@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export declare type Bytes = ArrayLike<number>;
 export declare type BytesLike = Bytes | string;
 export declare type DataOptions = {

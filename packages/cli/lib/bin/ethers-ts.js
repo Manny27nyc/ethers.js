@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env node
 'use strict';
 var __extends = (this && this.__extends) || (function () {

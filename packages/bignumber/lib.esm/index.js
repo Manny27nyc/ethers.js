@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { BigNumber } from "./bignumber";
 export { formatFixed, FixedFormat, FixedNumber, parseFixed } from "./fixednumber";
 // Internal methods used by address

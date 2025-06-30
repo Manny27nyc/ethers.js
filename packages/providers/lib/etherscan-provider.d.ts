@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BlockTag, TransactionResponse } from "@ethersproject/abstract-provider";
 import { Network, Networkish } from "@ethersproject/networks";
 import { BaseProvider } from "./base-provider";

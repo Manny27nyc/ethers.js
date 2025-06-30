@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BytesLike } from "@ethersproject/bytes";
 import { BigNumber, BigNumberish } from "@ethersproject/bignumber";
 export interface Result extends ReadonlyArray<any> {

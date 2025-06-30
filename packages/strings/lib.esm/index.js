@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { formatBytes32String, parseBytes32String } from "./bytes32";
 import { nameprep } from "./idna";

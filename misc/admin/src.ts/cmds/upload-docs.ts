@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import crypto from "crypto";
 import fs from "fs";
 import { join } from "path";

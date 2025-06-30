@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { repeat } from "./utils";
 
 // See: https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color

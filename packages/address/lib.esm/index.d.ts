@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BytesLike } from "@ethersproject/bytes";
 import { BigNumberish } from "@ethersproject/bignumber";
 export declare function getAddress(address: string): string;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BytesLike } from "@ethersproject/bytes";
 import { SupportedAlgorithm } from "./types";
 export declare function ripemd160(data: BytesLike): string;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 // Yellow Paper
 //   See: https://ethereum.github.io/yellowpaper/paper.pdf

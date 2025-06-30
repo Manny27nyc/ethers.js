@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 import { computeTarballHash, updateJson } from "../local";
 import { colorify, getProgressBar } from "../log";

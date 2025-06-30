@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 
 import { Block, TransactionReceipt, TransactionResponse } from "@ethersproject/abstract-provider";

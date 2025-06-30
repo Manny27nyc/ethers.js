@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { setupBuild } from "../build";
 import { colorify } from "../log";
 import { getPackageJsonPath } from "../path";

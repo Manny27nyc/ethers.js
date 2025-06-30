@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { id } from "./id";
 import { isValidName, namehash } from "./namehash";
 import { hashMessage, messagePrefix } from "./message";

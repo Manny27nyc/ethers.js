@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { decrypt as decryptCrowdsale } from "./crowdsale";
 import { getJsonWalletAddress, isCrowdsaleWallet, isKeystoreWallet } from "./inspect";

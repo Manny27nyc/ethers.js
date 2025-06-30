@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { toUtf8String } from "@ethersproject/strings";
 import { Wordlist } from "./wordlist";

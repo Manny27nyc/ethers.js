@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { spawnSync } from "child_process";
 
 export type RunResult = {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Network } from "@ethersproject/networks";
 import { UrlJsonRpcProvider } from "./url-json-rpc-provider";
 export declare class NodesmithProvider extends UrlJsonRpcProvider {

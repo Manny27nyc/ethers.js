@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Network, Networkish } from "@ethersproject/networks";
 import { Event } from "./base-provider";
 import { JsonRpcProvider } from "./json-rpc-provider";

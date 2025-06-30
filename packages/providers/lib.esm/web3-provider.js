@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 "use strict";
 import { deepCopy, defineReadOnly } from "@ethersproject/properties";
 import { Logger } from "@ethersproject/logger";

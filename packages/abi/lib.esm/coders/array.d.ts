@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Coder, Reader, Result, Writer } from "./abstract-coder";
 export declare function pack(writer: Writer, coders: ReadonlyArray<Coder>, values: Array<any> | {
     [name: string]: any;
